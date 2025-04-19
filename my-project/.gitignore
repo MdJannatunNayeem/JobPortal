@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+
+# Uploaded files
+/public/uploads/
+/server/uploads/
+/upload-file/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Cache
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Coverage reports
+coverage/

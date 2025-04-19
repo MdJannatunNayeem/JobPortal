@@ -1,12 +1,12 @@
-export const MONGODB_CONNECTION="mongodb+srv://nayeemae19:Nayeem_1234@database.rycmr.mongodb.net/JobPortal";
+export const MONGODB_CONNECTION="";//mongodb connection string
 
 export const JWT_SECRET = "5EC7CEFA1BE7C9354A639369A2AA8";
 export const JWT_EXPIRATION_TIME = 60*60*24*30;
 
 export const EMAIL_HOST = "smtp.gmail.com";
 export const EMAIL_PORT = "587";
-export const EMAIL_USER = "mdjannatunnayeem99@gmail.com";
-export const EMAIL_PASSWORD = "xybesnvagufgqtvc";
+export const EMAIL_USER = "";//email
+export const EMAIL_PASSWORD = "";//pass
 export const MAIL_ENCRYPTION="ssl"
 
 
